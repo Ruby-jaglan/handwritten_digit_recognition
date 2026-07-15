@@ -1,5 +1,5 @@
 **NAME:-** Ruby Jaglan               **CODTECH INTERN ID:-** CITS4103
-# ✍️ Handwritten Digit Recognition Using Deep Learning
+# Handwritten Digit Recognition Using Deep Learning
 
 ## 📌 Project Overview
 
@@ -164,4 +164,7 @@ This project demonstrates:
 - Git & GitHub Version Control
 
 ---
+# Output
+<img width="302" height="233" alt="Screenshot 2026-07-15 093722" src="https://github.com/user-attachments/assets/605d26d1-b46d-4e4a-92b2-fe86d12598d0" />
+<img width="310" height="265" alt="Screenshot 2026-07-15 093713" src="https://github.com/user-attachments/assets/89f8872c-0eaf-4d5a-a199-6e3d2efeb2fe" />
 
